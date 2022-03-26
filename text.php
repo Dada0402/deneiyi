@@ -31,7 +31,7 @@
 					<p>#stayathome</p>	
 				</div>
 				<div class="row center-2 section-1-letterspacing">
-					<p>Giảm </p>
+					<p style="text-align:center;">Giảm </p>
 					<p class="discount"> 10% </p>
 					<p>tất cả sản phẩm</p>
 				</div>
