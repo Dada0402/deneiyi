@@ -1,0 +1,22 @@
+** Structure **/
+
+
+.item img{
+	width: 60%;
+	padding: 0px;
+  /*  border-style:solid ;
+	border-color: #CF9867;
+    border-width: 2px;*/
+
+
+}
+.container{
+	
+	width: 41.66666667%
+	position: relative;
+	/*border: 2px solid blue;*/
+
+}
+ .owl-nav .owl-prev {
+ 	font-size: 20px;
+ }
